@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on [Aecor Technology Pvt Ltd](https://aecordigital.com/).
+- 🔭 I’m currently working at [Aecor Technology Pvt Ltd](https://aecordigital.com/).
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/dhruv-nakum-4b1054176/).
 - 🤔 I’m looking for help with React and Flutter.
