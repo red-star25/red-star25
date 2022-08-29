@@ -16,7 +16,6 @@
 
 
 - 🔭 I’m a Flutter Developer with over 2 years of Experience.
-- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/dhruv-nakum-4b1054176/).
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [LinkedIn - Dhruv Nakum](https://www.linkedin.com/in/dhruv-nakum-4b1054176/) , [Twitter - @dhruv_nakum](https://twitter.com/dhruv_nakum)
