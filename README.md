@@ -21,7 +21,7 @@
 - 📫 How to reach me: [LinkedIn - Dhruv Nakum](https://www.linkedin.com/in/dhruv-nakum-4b1054176/) , [Twitter - @dhruv_nakum](https://twitter.com/dhruv_nakum)
 - 😄 Pronouns: He/His
 - 📃 [Blogs](https://dhruvnakum.xyz/)
-- 😎 [Portfolio](https://dhruvnakum.vercel.app/)
+- 😎 [Portfolio](http://red-star25.github.io/dhruvnakum/#/dashboard)
 
 <br/>
 
