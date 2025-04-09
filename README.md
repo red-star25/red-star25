@@ -37,8 +37,6 @@
 <div align="center">
 <br/>
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-star25&show_icons=true&theme=dark)
-
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
