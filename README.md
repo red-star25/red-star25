@@ -1,18 +1,16 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Dhruv+Nakum+%F0%9F%91%8B;AI+%26+Full-Stack+Engineer;50K%2B+Users+Shipped+%F0%9F%9A%80;Experian+Best+Innovation+Award+%F0%9F%8F%86" alt="Typing SVG" />
-</h1>
+<img src="https://raw.githubusercontent.com/red-star25/red-star25/main/assets/header.svg" width="100%" alt="Dhruv Nakum" />
 
-<p>
+<br/>
+
 <a href="https://twitter.com/dhruv_nakum"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/dhruv-nakum/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://red-star25.github.io/dhruvnakum/"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=flat-square&logo=firefox&logoColor=white"/></a>&nbsp;
 <a href="https://dhruvnakum.xyz/"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp;
 <a href="mailto:dhruv.nakum25@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
 
-<br/>
+<br/><br/>
 
 </div>
 
@@ -76,7 +74,7 @@ Full-stack platform with Node.js, Next.js & AWS — offline journaling, LLM tria
 
 | 🏢 Company | 💼 Role | 💥 Impact |
 |---|---|---|
-| **Wayfair** | AI Workflow Engineer | Saved 5+ hrs/week of manual work via autonomous competitor intelligence agents |
+| **Wayfair** | AI Workflow Engineer | Saved 5+ hrs/week via autonomous competitor intelligence agents |
 | **OpenXcell** | Sr. Software Engineer | +50% lead-to-quote conversion for a Fortune 500 client |
 | **TRooTech** | Software Engineer | Cut fraudulent sign-ups by 60%, check-in time by 70% |
 | **Freelance** | Full-Stack Engineer | 10+ apps shipped, 100% client satisfaction, +35% user retention |
@@ -120,6 +118,16 @@ Full-stack platform with Node.js, Next.js & AWS — offline journaling, LLM tria
 
 ---
 
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/red-star25/red-star25/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/red-star25/red-star25/output/snake-light.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/red-star25/red-star25/output/snake-light.svg" width="100%"/>
+</picture>
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -142,14 +150,14 @@ Full-stack platform with Node.js, Next.js & AWS — offline journaling, LLM tria
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
 _Visit [dhruvnakum.xyz](https://dhruvnakum.xyz/) for articles reaching 4,000+ global readers._
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 <div align="center">
 
-**⭐ Star some repos if you find them useful — it genuinely means a lot!**
+<img src="https://raw.githubusercontent.com/red-star25/red-star25/main/assets/footer.svg" width="100%" alt="footer"/>
+
+<img src="https://komarev.com/ghpvc/?username=red-star25&style=flat-square&color=6C63FF" alt="Profile Views" />
 
 </div>
