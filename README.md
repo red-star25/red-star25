@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/red-star25/red-star25/main/assets/header.svg" width="100%" alt="Dhruv Nakum" />
+<img src="https://raw.githubusercontent.com/red-star25/red-star25/master/assets/header.svg" width="100%" alt="Dhruv Nakum" />
 
 <br/>
 
@@ -156,8 +156,6 @@ _Visit [dhruvnakum.xyz](https://dhruvnakum.xyz/) for articles reaching 4,000+ gl
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/red-star25/red-star25/main/assets/footer.svg" width="100%" alt="footer"/>
-
-<img src="https://komarev.com/ghpvc/?username=red-star25&style=flat-square&color=6C63FF" alt="Profile Views" />
+<img src="https://raw.githubusercontent.com/red-star25/red-star25/master/assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
