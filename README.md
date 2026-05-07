@@ -18,7 +18,6 @@ pronouns  : He / His
 
 <br/>
 
-<a href="https://twitter.com/dhruv_nakum"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/dhruv-nakum/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://dhruvnakum.super.site/"><img src="https://img.shields.io/badge/-Portfolio-6C63FF?style=flat-square&logo=firefox&logoColor=white"/></a>&nbsp;
 <a href="https://dhruvnakum.xyz/"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>&nbsp;
