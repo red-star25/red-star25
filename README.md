@@ -187,7 +187,7 @@ JWT & OAuth 2.0 authentication, Role-Based Access Control (RBAC), Secure coding 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=red-star25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=red-star25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
