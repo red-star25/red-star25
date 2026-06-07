@@ -1,0 +1,140 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes float1 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-12px)} }
+      @keyframes float2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-18px)} }
+      @keyframes float3 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+      @keyframes blink  { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes slide  { 0%{opacity:0;transform:translateY(20px)} 100%{opacity:1;transform:translateY(0)} }
+      @keyframes pulse  { 0%,100%{opacity:0.15} 50%{opacity:0.4} }
+      @keyframes spin   { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+
+      .sym1 { animation: float1 6s ease-in-out infinite; }
+      .sym2 { animation: float2 8s ease-in-out infinite; }
+      .sym3 { animation: float3 5s ease-in-out infinite; }
+      .sym4 { animation: float1 7s ease-in-out infinite reverse; }
+      .sym5 { animation: float2 9s ease-in-out infinite reverse; }
+      .sym6 { animation: float3 6.5s ease-in-out infinite 1s; }
+      .cursor { animation: blink 1.2s step-end infinite; }
+      .line1 { animation: slide 0.8s ease-out 0.2s both; }
+      .line2 { animation: slide 0.8s ease-out 0.6s both; }
+      .line3 { animation: slide 0.8s ease-out 1.0s both; }
+      .line4 { animation: slide 0.8s ease-out 1.4s both; }
+      .dot   { animation: pulse 3s ease-in-out infinite; }
+      .ring  { animation: spin 20s linear infinite; transform-origin: 820px 60px; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)" rx="12"/>
+
+  <!-- Subtle grid dots -->
+  <g opacity="0.07" fill="#6C63FF">
+    <g class="dot">
+      <circle cx="40"  cy="40"  r="1.5"/>
+      <circle cx="80"  cy="40"  r="1.5"/>
+      <circle cx="120" cy="40"  r="1.5"/>
+      <circle cx="40"  cy="80"  r="1.5"/>
+      <circle cx="80"  cy="80"  r="1.5"/>
+      <circle cx="120" cy="80"  r="1.5"/>
+      <circle cx="40"  cy="120" r="1.5"/>
+      <circle cx="80"  cy="120" r="1.5"/>
+      <circle cx="120" cy="120" r="1.5"/>
+      <circle cx="780" cy="160" r="1.5"/>
+      <circle cx="820" cy="160" r="1.5"/>
+      <circle cx="860" cy="160" r="1.5"/>
+      <circle cx="780" cy="200" r="1.5"/>
+      <circle cx="820" cy="200" r="1.5"/>
+      <circle cx="860" cy="200" r="1.5"/>
+      <circle cx="780" cy="240" r="1.5"/>
+      <circle cx="820" cy="240" r="1.5"/>
+      <circle cx="860" cy="240" r="1.5"/>
+    </g>
+  </g>
+
+  <!-- Decorative ring top-right -->
+  <g class="ring" opacity="0.12">
+    <circle cx="820" cy="60" r="55" fill="none" stroke="#6C63FF" stroke-width="1" stroke-dasharray="8 4"/>
+  </g>
+  <circle cx="820" cy="60" r="38" fill="none" stroke="#6C63FF" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Floating code symbols -->
+  <g font-family="monospace" font-size="22" fill="#6C63FF" opacity="0.18">
+    <text class="sym1" x="60"  y="230">{  }</text>
+    <text class="sym2" x="820" y="200">&lt;/&gt;</text>
+    <text class="sym3" x="760" y="120">( )</text>
+    <text class="sym4" x="820" y="250">[ ]</text>
+    <text class="sym5" x="40"  y="170">fn</text>
+    <text class="sym6" x="110" y="260">∞</text>
+  </g>
+
+  <!-- Left accent bar -->
+  <rect x="56" y="82" width="4" height="116" rx="2" fill="url(#accent)"/>
+
+  <!-- Glow blob behind name -->
+  <ellipse cx="420" cy="130" rx="220" ry="60" fill="url(#glow)" opacity="0.5"/>
+
+  <!-- Terminal prompt line -->
+  <g class="line1">
+    <text x="76" y="102" font-family="monospace" font-size="13" fill="#6C63FF" opacity="0.7">~/dhruv-nakum</text>
+    <text x="200" y="102" font-family="monospace" font-size="13" fill="#3fb950" opacity="0.7"> ❯</text>
+    <text x="220" y="102" font-family="monospace" font-size="13" fill="#8b949e" opacity="0.7"> whoami</text>
+  </g>
+
+  <!-- Name -->
+  <g class="line2">
+    <text x="76" y="158" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="url(#accent)" letter-spacing="-1">Dhruv Nakum</text>
+  </g>
+
+  <!-- Cursor after name -->
+  <rect class="cursor" x="527" y="132" width="3" height="32" rx="1" fill="#6C63FF"/>
+
+  <!-- Subtitle -->
+  <g class="line3">
+    <text x="77" y="187" font-family="Arial, sans-serif" font-size="17" fill="#8b949e" letter-spacing="0.5">AI &amp; Full-Stack Engineer  ·  50K+ Users Shipped  ·  M.S. CS @ CSUF</text>
+  </g>
+
+  <!-- Tags -->
+  <g class="line4">
+    <rect x="76"  y="204" width="86"  height="24" rx="12" fill="#6C63FF" opacity="0.15"/>
+    <text x="119" y="220" font-family="Arial, sans-serif" font-size="11" fill="#a78bfa" text-anchor="middle">Flutter</text>
+
+    <rect x="172" y="204" width="76"  height="24" rx="12" fill="#6C63FF" opacity="0.15"/>
+    <text x="210" y="220" font-family="Arial, sans-serif" font-size="11" fill="#a78bfa" text-anchor="middle">React.js</text>
+
+    <rect x="258" y="204" width="70"  height="24" rx="12" fill="#6C63FF" opacity="0.15"/>
+    <text x="293" y="220" font-family="Arial, sans-serif" font-size="11" fill="#a78bfa" text-anchor="middle">Node.js</text>
+
+    <rect x="338" y="204" width="100" height="24" rx="12" fill="#3fb950" opacity="0.12"/>
+    <text x="388" y="220" font-family="Arial, sans-serif" font-size="11" fill="#3fb950" text-anchor="middle">AI Agents</text>
+
+    <rect x="448" y="204" width="60"  height="24" rx="12" fill="#3fb950" opacity="0.12"/>
+    <text x="478" y="220" font-family="Arial, sans-serif" font-size="11" fill="#3fb950" text-anchor="middle">AWS</text>
+
+    <rect x="518" y="204" width="66"  height="24" rx="12" fill="#3fb950" opacity="0.12"/>
+    <text x="551" y="220" font-family="Arial, sans-serif" font-size="11" fill="#3fb950" text-anchor="middle">Docker</text>
+  </g>
+
+  <!-- Bottom divider line -->
+  <line x1="56" y1="258" x2="844" y2="258" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Bottom stat line -->
+  <g font-family="monospace" font-size="12" fill="#484f58">
+    <text x="76"  y="272">⭐  1,224 contributions</text>
+    <text x="310" y="272">🏆  Experian Award Winner</text>
+    <text x="540" y="272">📍  Los Angeles, CA</text>
+    <text x="720" y="272">🎓  GPA 3.7</text>
+  </g>
+</svg>
