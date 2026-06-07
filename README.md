@@ -158,18 +158,18 @@ JWT & OAuth 2.0 authentication, Role-Based Access Control (RBAC), Secure coding 
 
 ## 📚 Featured Achievements
 
-✅ Reduced unauthorized access incidents by 38%
-✅ Optimized cloud infrastructure saving $120,000 monthly
-✅ Achieved 99.98% uptime across multi-region microservices
-✅ Cut deployment cycles from days to under 2 hours with CI/CD automation
-✅ Reduced production defects by 46% through comprehensive testing
-✅ Automated API testing pipelines reducing manual QA effort by 45%
-✅ Improved application response times by 41% through database optimization
-✅ Increased throughput under peak load by 37% through performance tuning
-✅ Built enterprise SaaS supporting $18M annual revenue platforms
-✅ Scaled consumer apps to 50K+ users with 95%+ crash-free sessions
-✅ Led workshops for 200+ students as Adobe Student Ambassador
-✅ Articles reaching 4,000+ global readers on technical topics
+✅ Reduced unauthorized access incidents by 38 <br/>
+✅ Optimized cloud infrastructure saving $120,000 monthly <br/>
+✅ Achieved 99.98% uptime across multi-region microservices <br/>
+✅ Cut deployment cycles from days to under 2 hours with CI/CD automation <br/>
+✅ Reduced production defects by 46% through comprehensive testing <br/>
+✅ Automated API testing pipelines reducing manual QA effort by 45% <br/>
+✅ Improved application response times by 41% through database optimization <br/>
+✅ Increased throughput under peak load by 37% through performance tuning <br/>
+✅ Built enterprise SaaS supporting $18M annual revenue platforms <br/>
+✅ Scaled consumer apps to 50K+ users with 95%+ crash-free sessions <br/>
+✅ Led workshops for 200+ students as Adobe Student Ambassador <br/>
+✅ Articles reaching 4,000+ global readers on technical topics <br/>
 
 ---
 
@@ -180,16 +180,6 @@ JWT & OAuth 2.0 authentication, Role-Based Access Control (RBAC), Secure coding 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/red-star25/red-star25/output/snake-light.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/red-star25/red-star25/output/snake-light.svg" width="100%"/>
 </picture>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=red-star25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
