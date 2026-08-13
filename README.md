@@ -1,4 +1,4 @@
-# Hi! I'm Dhruv Nakum ✨
+## Hi! I'm Dhruv Nakum ✨
 
 ### Introduction
 Software engineer with 3+ years of experience building scalable web applications and backend services, with additional experience in building distributed infrastructure and CI/CD pipelines in cloud environments.
